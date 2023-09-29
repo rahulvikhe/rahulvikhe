@@ -1,7 +1,7 @@
 <h2 align="left">Hey 👋, I'm Rahul</h1>
 
 <a href="https://www.credly.com/badges/7611b72e-a8d3-4b31-9537-785979b928b0">
-  <img src="./AWS-image.png" alt="Profile Banner">
+  <img src="./Assets/AWS-image.png" alt="Profile Banner">
 </a>
 
 <h3 align="left">A passionate Cloud Engineer from India</h3>
